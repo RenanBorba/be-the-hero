@@ -68,7 +68,7 @@ routes.post('/users', (request, response) => {
  */
 
 /**
- * Login Routes
+ * Login Route
  */
 routes.post('/sessions', SessionController.create);
 
