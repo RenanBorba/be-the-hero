@@ -20,7 +20,7 @@ export default function Detail() {
   const route = useRoute();
 
   const incident = route.params.incident;
-  const message = `Olá ${incident.ong}, estou entrando em ` +
+  const message = `Olá ${incident.name}, estou entrando em ` +
   `contato pois gostaria de ajudar no caso "${incident.title}" com o ` +
   `valor de R$ ${incident.value}.`;
 
