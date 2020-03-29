@@ -38,13 +38,13 @@ export default StyleSheet.create({
 
   heroTitle: {
     fontWeight: 'bold',
-    fontSize: 18,
+    fontSize: 19,
     color: '#13131A',
     lineHeight: 30
   },
 
   heroContact: {
-    fontSize: 15,
+    fontSize: 16,
     color: '#737380',
     marginTop: 16
   },
@@ -69,5 +69,4 @@ export default StyleSheet.create({
     fontSize: 15,
     fontWeight: 'bold'
   }
-
 });
