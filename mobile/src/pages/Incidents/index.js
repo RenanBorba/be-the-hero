@@ -83,7 +83,7 @@ export default function Incidents() {
             {incident => String(incident.id)}
           showsVerticalScrollIndicator={false}
           onEndReached={ loadIncidents }
-          onEndReachedThreshold={0.2}
+          onEndReachedThreshold={0.3}
           renderItem={({ item: incident }) => (
             /* Incident */
             <View style={styles.incident}>
