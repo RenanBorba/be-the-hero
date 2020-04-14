@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import
-  { View,
+  { 
+    View,
     StatusBar,
     Text,
     Image,
