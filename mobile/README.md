@@ -18,9 +18,9 @@ A aplicação Be The Hero é voltada para cadastro de Ongs e busca de padrinhos 
   <li>useEffect</li>
   <li>Icon</li>
   <li>Splash Screen</li>
-  <li>vector-icons Feather, FontAwesome</li>
-  <li>StatusBar</li>
   <li>StyleSheet</li>
+  <li>StatusBar</li>
+  <li>vector-icons Feather, FontAwesome</li>
 </ul>
 <br><br> 
 
