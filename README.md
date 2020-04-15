@@ -1,5 +1,5 @@
 ## Rocketseat - Semana OmniStack 11.0 
-# Be The Hero
+# Projeto - Aplicação Be The Hero
 A aplicação Be The Hero é voltada para cadastro de Ongs e busca de padrinhos de causas, nesse caso heróis. 
 <br><br>
  
