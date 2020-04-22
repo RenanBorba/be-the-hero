@@ -5,6 +5,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![Build Status](https://img.shields.io/github/forks/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero)
