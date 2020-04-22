@@ -42,3 +42,7 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para a aplicação Be Th
 <br><br><br>
 
 ![0](https://user-images.githubusercontent.com/48495838/78059680-a9bcd180-7360-11ea-8b85-9f12f62d0c79.JPG)
+
+
+<br><br>
+Renan Borba.
