@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Rocketseat - Semana OmniStack 11.0 
-# Be The Hero - Back-end
+# Projeto - API Node Armazenamento Be The Hero
 
 </div>
 
