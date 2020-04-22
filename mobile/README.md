@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Rocketseat - Semana OmniStack 11.0 
-# Be The Hero - Front-end Mobile React Native
+# Projeto - Aplicação Be The Hero Mobile React Native
 
 </div>
 
