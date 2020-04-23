@@ -44,9 +44,17 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web Be The Hero, qu
   <li>react-icons Feather</li>
 </ul>
 
-<br><br>
+<br><br><br>
 
-#### Segue abaixo as principais interfaces: 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br><br><br>
+
+## :mega: Segue abaixo as principais interfaces: 
 
 <br><br><br>
 
