@@ -25,6 +25,89 @@
 
 A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos de causas, nesse caso heróis, que visam ajudar de forma financeira inúmeros perfis de instituições sem fins lucrativos, como de direitos humanos, direitos animais e meio ambiente. 🦸
 
+<br><br>
+
+## :rocket: Tecnologias
+### Node.js
+<ul> 
+  <li>Nodemon</li> 
+  <li>Express</li>
+  <li>Routes</li>
+  <li>Axios</li>  
+  <li>SQLite</li>
+  <li>Knex</li> 
+  <li>Crypto</li> 
+  <li>Cors</li>
+</ul>
+
+<br>
+### ReactJS
+<ul> 
+  <li>Components</li>  
+  <li>Services API</li>
+  <li>Axios</li> 
+  <li>Routes</li>
+  <li>react-router-dom</li>
+  <li>useHistory</li> 
+  <li>LocalStorage</li> 
+  <li>useState</li>
+  <li>useEffect</li>
+  <li>Favicon</li>
+  <li>CSS</li>
+  <li>Google Fonts</li>
+  <li>react-icons Feather</li>
+</ul>
+
+<br>
+
+### React Native
+<ul> 
+  <li>Components</li> 
+  <li>Routes</li>
+  <li>react-navigation</li> 
+  <li>react-navigation/stack</li>
+  <li>useNavigation</li> 
+  <li>useRoute</li>
+  <li>Services API</li>
+  <li>Axios</li> 
+  <li>Flatlist (Scroll Infinito)</li> 
+  <li>Paginate</li>
+  <li>expo-mail-composer</li>
+  <li>Linking (Deep Linking)</li>
+  <li>useState</li>
+  <li>useEffect</li>
+  <li>Icon</li>
+  <li>Splash Screen</li>
+  <li>StyleSheet</li>
+  <li>StatusBar</li>
+  <li>vector-icons Feather, FontAwesome</li>
+</ul>
+
+<br><br><br>
+
+## :arrow_forward: Start
+### Node.js
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br>
+
+### ReactJS
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br>
+
+### React Native
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
 <br><br><br>
  
 ![00](https://user-images.githubusercontent.com/48495838/79367163-c68e0300-7f23-11ea-8ecf-0045c3ac68a2.png)
