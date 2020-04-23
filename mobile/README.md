@@ -50,9 +50,17 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
   <li>vector-icons Feather, FontAwesome</li>
 </ul>
 
-<br><br>
+<br><br><br>
 
-#### Segue abaixo as principais interfaces: 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br><br><br>
+
+## :mega: Segue abaixo as principais interfaces: 
 
 <br><br><br>
 
