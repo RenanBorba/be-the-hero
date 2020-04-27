@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
- 
+
 ![logo](https://user-images.githubusercontent.com/48495838/80030077-19d0fa00-84be-11ea-8134-79c40d91f883.png)
 
 </div>
@@ -26,7 +26,6 @@
 A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos de causas, nesse caso heróis, que visam ajudar de forma financeira inúmeros perfis de instituições sem fins lucrativos, como de direitos humanos, direitos animais e meio ambiente. 🦸
 
 <br><br>
-
 
 ## :rocket: Tecnologias
 ### Node.js
