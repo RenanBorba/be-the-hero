@@ -1,6 +1,6 @@
 <div align="center">
 
-## Rocketseat - Semana OmniStack 11.0 
+## Rocketseat - Semana OmniStack 11.0
 # Projeto - Aplicação Be The Hero Web ReactJS
 
 </div>
@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
- 
+
 ![logo](https://user-images.githubusercontent.com/48495838/80030077-19d0fa00-84be-11ea-8134-79c40d91f883.png)
 
 </div>
@@ -27,8 +27,8 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web Be The Hero, qu
 
 <br><br>
 
-## :rocket: Tecnologias 
-<ul> 
+## :rocket: Tecnologias
+<ul>
   <li>Components</li>  
   <li>Services API</li>
   <li>Axios</li> 
@@ -47,26 +47,26 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web Be The Hero, qu
 <br><br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais interfaces: 
+## :mega: Segue abaixo as principais interfaces:
 
 <br><br><br>
 
-![1](https://user-images.githubusercontent.com/48495838/78059881-061ff100-7361-11ea-93e4-632935f70319.JPG) 
+![1](https://user-images.githubusercontent.com/48495838/78059881-061ff100-7361-11ea-93e4-632935f70319.JPG)
 
 <br>
 
-![4](https://user-images.githubusercontent.com/48495838/78059886-07e9b480-7361-11ea-87cc-6405eb8ef86f.JPG) 
+![4](https://user-images.githubusercontent.com/48495838/78059886-07e9b480-7361-11ea-87cc-6405eb8ef86f.JPG)
 
 <br>
 
-![3](https://user-images.githubusercontent.com/48495838/78059882-07511e00-7361-11ea-898a-15358a6661b0.JPG) 
+![3](https://user-images.githubusercontent.com/48495838/78059882-07511e00-7361-11ea-898a-15358a6661b0.JPG)
 
 
 <br><br>
