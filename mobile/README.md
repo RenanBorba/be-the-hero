@@ -1,6 +1,6 @@
 <div align="center">
 
-## Rocketseat - Semana OmniStack 11.0 
+## Rocketseat - Semana OmniStack 11.0
 # Projeto - Aplicação Be The Hero Mobile React Native
 
 </div>
@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
- 
+
 ![logo](https://user-images.githubusercontent.com/48495838/80030077-19d0fa00-84be-11ea-8134-79c40d91f883.png)
 
 </div>
@@ -27,8 +27,8 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 <br><br>
 
-## :rocket: Tecnologias 
-<ul> 
+## :rocket: Tecnologias
+<ul>
   <li>Components</li> 
   <li>Routes</li>
   <li>react-navigation</li> 
@@ -53,18 +53,18 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 <br><br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais interfaces: 
+## :mega: Segue abaixo as principais interfaces:
 
 <br><br><br>
 
-![5](https://user-images.githubusercontent.com/48495838/78060187-7fb7df00-7361-11ea-813c-c1e000971f73.JPG) 
+![5](https://user-images.githubusercontent.com/48495838/78060187-7fb7df00-7361-11ea-813c-c1e000971f73.JPG)
 
 <br>
 
@@ -72,7 +72,7 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 <br>
 
-![01](https://user-images.githubusercontent.com/48495838/79368046-2f29af80-7f25-11ea-8376-edbbe91dadd9.jpg) 
+![01](https://user-images.githubusercontent.com/48495838/79368046-2f29af80-7f25-11ea-8376-edbbe91dadd9.jpg)
 
 
 <br><br>
