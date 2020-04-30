@@ -1,6 +1,6 @@
 <div align="center">
 
-## Rocketseat - Semana OmniStack 11.0 
+## Rocketseat - Semana OmniStack 11.0
 # Projeto - API Node Armazenamento Be The Hero
 
 </div>
@@ -27,8 +27,8 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para a aplicação Be Th
 
 <br><br>
 
-## :rocket: Tecnologias 
-<ul> 
+## :rocket: Tecnologias
+<ul>
   <li>Nodemon</li> 
   <li>Express</li>
   <li>Routes</li>
@@ -42,7 +42,7 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para a aplicação Be Th
 <br><br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
