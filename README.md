@@ -1,6 +1,6 @@
 <div align="center">
 
-## Rocketseat - Semana OmniStack 11.0 
+## Rocketseat - Semana OmniStack 11.0
 # Projeto - Aplicação Be The Hero
 
 </div>
@@ -29,7 +29,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 ## :rocket: Tecnologias
 ### Node.js
-<ul> 
+<ul>
   <li>Nodemon</li> 
   <li>Express</li>
   <li>Routes</li>
@@ -43,7 +43,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 <br>
 
 ### ReactJS
-<ul> 
+<ul>
   <li>Components</li>  
   <li>Services API</li>
   <li>Axios</li> 
@@ -62,7 +62,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 <br>
 
 ### React Native
-<ul> 
+<ul>
   <li>Components</li> 
   <li>Routes</li>
   <li>react-navigation</li> 
@@ -88,7 +88,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 ## :arrow_forward: Start
 ### Node.js
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
@@ -96,7 +96,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 <br>
 
 ### ReactJS
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
@@ -104,7 +104,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 <br>
 
 ### React Native
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
