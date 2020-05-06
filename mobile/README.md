@@ -64,7 +64,9 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 <br><br><br>
 
-![5](https://user-images.githubusercontent.com/48495838/78060187-7fb7df00-7361-11ea-813c-c1e000971f73.JPG)
+<div align="center">
+
+![00](https://user-images.githubusercontent.com/48495838/81208157-02593d00-8fa5-11ea-9329-ff4220e15cbc.jpg)
 
 <br>
 
@@ -72,8 +74,9 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 <br>
 
-![01](https://user-images.githubusercontent.com/48495838/79368046-2f29af80-7f25-11ea-8376-edbbe91dadd9.jpg)
+![01](https://user-images.githubusercontent.com/48495838/81208151-01c0a680-8fa5-11ea-8e39-4752451b7a89.jpg)
 
+</div>
 
 <br><br>
 Renan Borba.
