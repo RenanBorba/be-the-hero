@@ -49,7 +49,11 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para a aplicação Be Th
 
 <br><br><br>
 
-![0](https://user-images.githubusercontent.com/48495838/78059680-a9bcd180-7360-11ea-8b85-9f12f62d0c79.JPG)
+<div align="center">
+
+![00](https://user-images.githubusercontent.com/48495838/81207821-91b22080-8fa4-11ea-8948-7fb4c764baad.png)
+
+</div>
 
 
 <br><br>
