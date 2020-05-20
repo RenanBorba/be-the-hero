@@ -66,7 +66,11 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 <div align="center">
 
-![00](https://user-images.githubusercontent.com/48495838/81854941-03561580-9535-11ea-9728-6afe553d32a8.png)
+![000](https://user-images.githubusercontent.com/48495838/82489795-97395b80-9ab8-11ea-8e80-584dfd44ba1b.png)
+
+<br>
+
+![001](https://user-images.githubusercontent.com/48495838/82489789-956f9800-9ab8-11ea-9d86-2a32624f498a.png)
 
 <br>
 
