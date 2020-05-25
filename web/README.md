@@ -29,13 +29,13 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web Be The Hero, qu
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Components</li>  
+  <li>Components</li>
   <li>Services API</li>
-  <li>Axios</li> 
+  <li>Axios</li>
   <li>Routes</li>
   <li>react-router-dom</li>
-  <li>useHistory</li> 
-  <li>LocalStorage</li> 
+  <li>useHistory</li>
+  <li>LocalStorage</li>
   <li>useState</li>
   <li>useEffect</li>
   <li>Favicon</li>
