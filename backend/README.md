@@ -29,13 +29,13 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para a aplicação Be Th
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Nodemon</li> 
+  <li>Nodemon</li>
   <li>Express</li>
   <li>Routes</li>
-  <li>Axios</li>  
+  <li>Axios</li>
   <li>SQLite</li>
-  <li>Knex</li> 
-  <li>Crypto</li> 
+  <li>Knex</li>
+  <li>Crypto</li>
   <li>Cors</li>
 </ul>
 
