@@ -111,7 +111,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 <br><br><br>
 
-![000](https://user-images.githubusercontent.com/48495838/80159046-7278c380-85a0-11ea-9406-06151242e983.jpg)
+![000](https://user-images.githubusercontent.com/48495838/83179508-844a0b00-a0f8-11ea-80b0-3b5360baf071.png)
 
 <br><br><br>
 
