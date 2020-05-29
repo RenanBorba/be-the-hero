@@ -113,6 +113,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 ![000](https://user-images.githubusercontent.com/48495838/83179850-f4f12780-a0f8-11ea-84a3-9acdd86c8517.png)
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
