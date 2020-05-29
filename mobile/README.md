@@ -29,15 +29,15 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Components</li> 
+  <li>Components</li>
   <li>Routes</li>
-  <li>react-navigation</li> 
+  <li>react-navigation</li>
   <li>react-navigation/stack</li>
-  <li>useNavigation</li> 
+  <li>useNavigation</li>
   <li>useRoute</li>
   <li>Services API</li>
-  <li>Axios</li> 
-  <li>Flatlist (Scroll Infinito)</li> 
+  <li>Axios</li>
+  <li>Flatlist (Scroll Infinito)</li>
   <li>Paginate</li>
   <li>expo-mail-composer</li>
   <li>Linking (Deep Linking)</li>
@@ -83,4 +83,5 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 </div>
 
 <br><br>
+
 Renan Borba.
