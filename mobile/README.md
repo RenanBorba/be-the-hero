@@ -83,5 +83,6 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 </div>
 
 <br><br>
+<br>
 
 Renan Borba.
