@@ -68,6 +68,6 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web Be The Hero, qu
 
 ![3](https://user-images.githubusercontent.com/48495838/78059882-07511e00-7361-11ea-898a-15358a6661b0.JPG)
 
-
+<br>
 <br><br>
 Renan Borba.
