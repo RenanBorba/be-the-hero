@@ -23,7 +23,7 @@
 
 <br><br>
 
-A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos de causas, nesse caso heróis, que visam ajudar de forma financeira inúmeros perfis de instituições sem fins lucrativos, como de direitos humanos, direitos animais e meio ambiente. 🦸
+A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos de causas, nesse caso heróis, que visam ajudar de forma financeira inúmeros perfis de instituições sem fins lucrativos, como de direitos humanos, direitos animais e meio ambiente. 🦸‍
 
 <br><br>
 
