@@ -42,13 +42,13 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 ## :rocket: Tecnologias
 ### Node.js
 <ul>
-  <li>Nodemon</li> 
+  <li>Nodemon</li>
   <li>Express</li>
   <li>Routes</li>
-  <li>Axios</li>  
+  <li>Axios</li>
   <li>SQLite</li>
-  <li>Knex</li> 
-  <li>Crypto</li> 
+  <li>Knex</li>
+  <li>Crypto</li>
   <li>Cors</li>
 </ul>
 
@@ -56,13 +56,13 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 ### ReactJS
 <ul>
-  <li>Components</li>  
+  <li>Components</li>
   <li>Services API</li>
-  <li>Axios</li> 
+  <li>Axios</li>
   <li>Routes</li>
   <li>react-router-dom</li>
-  <li>useHistory</li> 
-  <li>LocalStorage</li> 
+  <li>useHistory</li>
+  <li>LocalStorage</li>
   <li>useState</li>
   <li>useEffect</li>
   <li>Favicon</li>
@@ -75,15 +75,15 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 ### React Native
 <ul>
-  <li>Components</li> 
+  <li>Components</li>
   <li>Routes</li>
-  <li>react-navigation</li> 
+  <li>react-navigation</li>
   <li>react-navigation/stack</li>
-  <li>useNavigation</li> 
+  <li>useNavigation</li>
   <li>useRoute</li>
   <li>Services API</li>
-  <li>Axios</li> 
-  <li>Flatlist (Scroll Infinito)</li> 
+  <li>Axios</li>
+  <li>Flatlist (Scroll Infinito)</li>
   <li>Paginate</li>
   <li>expo-mail-composer</li>
   <li>Linking (Deep Linking)</li>
@@ -123,7 +123,7 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
 
 <br><br>
 
-## :punch: Como contribuir 
+## :punch: Como contribuir
 <ul>
   <li>Dê um fork nesse repositório</li>
   <li>Crie a sua branch com a feature</li>
