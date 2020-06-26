@@ -9,19 +9,15 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![Build Status](https://img.shields.io/github/forks/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![Build Status](https://img.shields.io/github/forks/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-</div>
-
-<br><br>
-
-<div align="center">
+<br>
 
 ![logo](https://user-images.githubusercontent.com/48495838/80030077-19d0fa00-84be-11ea-8134-79c40d91f883.png)
 
 </div>
 
-<br><br>
+<br>
 
 A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos de causas, nesse caso heróis, que visam ajudar de forma financeira inúmeros perfis de instituições sem fins lucrativos, como de direitos humanos, direitos animais e meio ambiente. 🦸‍♂️
 
@@ -140,8 +136,3 @@ A aplicação Be The Hero é voltada para cadastro de ONGs e busca de padrinhos 
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-
-<br><br>
-<br>
-
-Renan Borba.
