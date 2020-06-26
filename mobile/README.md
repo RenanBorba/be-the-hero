@@ -9,11 +9,11 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![Build Status](https://img.shields.io/github/forks/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![Build Status](https://img.shields.io/github/forks/RenanBorba/be-the-hero.svg)](https://github.com/RenanBorba/be-the-hero) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero que é voltado para cadastro de ONGs e busca de padrinhos de causas, nesse caso heróis, que visam ajudar de forma financeira inúmeros perfis de instituições sem fins lucrativos, como de direitos humanos, direitos animais e meio ambiente. 🦸
 
@@ -81,8 +81,3 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 ![003](https://user-images.githubusercontent.com/48495838/81209096-6d574380-8fa6-11ea-8d91-7ad754083c66.jpg)
 
 </div>
-
-<br><br>
-<br>
-
-Renan Borba.
