@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 ## Rocketseat - Semana OmniStack 11.0
 # Projeto - Aplicação Be The Hero
