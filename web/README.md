@@ -54,7 +54,7 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web Be The Hero, qu
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais interfaces:
+## :mega: ⬇ Abaixo as principais interfaces:
 
 <br><br><br>
 
