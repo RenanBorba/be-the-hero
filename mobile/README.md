@@ -60,7 +60,7 @@ Aplicação Front-end desenvolvida em React Native para o aplicativo Be The Hero
 
 <br><br><br>
 
-## :mega: ⬇ Abaixo as principais interfaces:
+## :mega: ⬇ Abaixo, as principais interfaces:
 
 <br><br><br>
 
